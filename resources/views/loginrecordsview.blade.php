@@ -1,0 +1,2 @@
+<!-- {{$logindata->mail}}
+{{$logindata->tpassword}} -->
